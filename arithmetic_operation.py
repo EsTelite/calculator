@@ -1,9 +1,9 @@
-class arithmetic_logics:
+class arithmetic_operation:
 
     def add(a, b):
         return a + b
 
-    def substract(a, b):
+    def subtract(a, b):
         return a - b
 
     def multiply(a, b):
